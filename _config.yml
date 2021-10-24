@@ -4,6 +4,7 @@ url: https://zulkiflijufri.netlify.app/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   👋 Halo.. kenalkan saya Zulkifli, blog ini adalah tempat saya bermain, bisa dengan
   menulis atau menampilkan beberapa proyek yang pernah atau sedang saya kerjakan.
+  Semoga menginspirasi
 
 permalink: /:slug
 
