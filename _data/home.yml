@@ -25,11 +25,32 @@ project_entries:
       - Tailwind
       - MySQL
       - Laravel
+      - Livewire
       - Payment Gateway
+
+  - title: Alumni STT NF
+    url:
+    desc: Website yang berisi informasi tentang berita, kegiatan, atau hal unik dari
+          alumni STT NF
+    highlight: DEV
+    stacks:
+      - Bootstrap
+      - MySQL
+      - Laravel
+
+  - title: CDC STT NF
+    url:
+    desc: Pusat pengembangan karir untuk memudahkan para pencari kerja dengan
+          perusahaan/instansi/industri yang sedang membutuhkan tenaga kerja
+    highlight: DEV
+    stacks:
+      - Bootstrap
+      - MySQL
+      - Laravel
 
   - title: SKM DPMTSP Natuna
     url: https://skm-dpmptsp-natuna.com/
-    desc: Survey Kepuasan Masyarakat (SKM) untuk melihat respon pengguna
+    desc: Survey Kepuasan Masyarakat (SKM) untuk melihat respon masyarakat
           terhadap layanan yang digunakan
     stacks:
       - Bootstrap
@@ -38,7 +59,8 @@ project_entries:
 
   - title: Kalkulator Zakat
     url: https://kalkulator.zakatsukses.org
-    desc: Menghitung jumlah zakat yang harus dikeluarkan oleh Muzakki
+    desc: Sebuah layanan dari salah satu Lembaga Amil Zakat untuk menghitung jumlah
+          berbagai jenis zakat yang harus dikeluarkan oleh Muzakki
     stacks:
       - Bootstrap
       - Laravel
