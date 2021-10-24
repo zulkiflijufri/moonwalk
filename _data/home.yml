@@ -5,63 +5,36 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Sahabat Berbagi
+    url: https://sahabatberbagi.org/
+    desc: Website yang digunakan oleh salah satu lembaga Zakat di Indonesia untuk
+          melakukan donasi
+    highlight: BUILD
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: NF BISA
+    url: http://bantuteman.xyz
+    desc: Donasi secara online untuk membantu mahasiswa STT NF yang mengalami kesulitan
+    highlight: BUILD
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
+  - title: Kalkulator Zakat
+    url: https://kalkulator.zakatsukses.org
+    desc: Menghitung jumlah zakat yang harus dikeluarkan oleh Muzakki
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: SKM DPMTSP Natuna
+    url: https://skm-dpmptsp-natuna.com/
+    desc: Survey Kepuasan Masyarakat (SKM) terhadap layanan yang digunakan
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: instagram
+    url: https://www.instagram.com/zulkifli.jufri/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: linkedin
+    url: https://www.linkedin.com/in/zulkiflijufri/
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/zulkiflijufri
 
   - title: feed
     url: feed.xml
