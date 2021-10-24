@@ -10,20 +10,47 @@ project_entries:
     url: https://sahabatberbagi.org/
     desc: Website yang digunakan oleh salah satu lembaga Zakat di Indonesia untuk
           melakukan donasi
-    # highlight: BUILD
+    highlight: DEV
+    stacks:
+      - Bootstrap
+      - MySQL
+      - Laravel
+      - Payment Gateway
 
   - title: NF BISA
     url: http://bantuteman.xyz
     desc: Donasi secara online untuk membantu mahasiswa STT NF yang mengalami kesulitan
-
-old_project_entries:
-  - title: Kalkulator Zakat
-    url: https://kalkulator.zakatsukses.org
-    desc: Menghitung jumlah zakat yang harus dikeluarkan oleh Muzakki
+    highlight: DEV
+    stacks:
+      - Tailwind
+      - MySQL
+      - Laravel
+      - Payment Gateway
 
   - title: SKM DPMTSP Natuna
     url: https://skm-dpmptsp-natuna.com/
-    desc: Survey Kepuasan Masyarakat (SKM) terhadap layanan yang digunakan
+    desc: Survey Kepuasan Masyarakat (SKM) untuk melihat respon pengguna
+          terhadap layanan yang digunakan
+    stacks:
+      - Bootstrap
+      - MySQL
+      - Laravel
+
+  - title: Kalkulator Zakat
+    url: https://kalkulator.zakatsukses.org
+    desc: Menghitung jumlah zakat yang harus dikeluarkan oleh Muzakki
+    stacks:
+      - Bootstrap
+      - Laravel
+
+# old_project_entries:
+#   - title: Kalkulator Zakat
+#     url: https://kalkulator.zakatsukses.org
+#     desc: Menghitung jumlah zakat yang harus dikeluarkan oleh Muzakki
+
+#   - title: SKM DPMTSP Natuna
+#     url: https://skm-dpmptsp-natuna.com/
+#     desc: Survey Kepuasan Masyarakat (SKM) terhadap layanan yang digunakan
 
 footer_entries:
   - title: instagram

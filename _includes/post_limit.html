@@ -1,6 +1,6 @@
 {% if site.posts.size > 0 %}
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 5%}
       <li class="post-list-item">
         <span class="home-date">
           {{ post.date | date: site.theme_config.date_format }} »
@@ -9,4 +9,10 @@
       </li>
     {% endfor %}
   </ul>
+{% endif %}
+
+{% if site.posts.size > 5 %}
+<ul>
+    <li style="list-style: none;"><a href="/blog">Semua tulisan -></a></li>
+</ul>
 {% endif %}

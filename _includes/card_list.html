@@ -20,6 +20,13 @@
         </p>
         {% endif %}
       </a>
+
+      {% if item.stacks.size > 0 %}
+        {% for stack in item.stacks %}
+          <span class="stacks">{{ stack }}</span>
+        {% endfor %}
+      {% endif %}
+
     </li>
 
   {% endfor %}
