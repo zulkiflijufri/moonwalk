@@ -10,12 +10,11 @@ project_entries:
     url: https://sahabatberbagi.org/
     desc: Website yang digunakan oleh salah satu lembaga Zakat di Indonesia untuk
           melakukan donasi
-    highlight: BUILD
+    # highlight: BUILD
 
   - title: NF BISA
     url: http://bantuteman.xyz
     desc: Donasi secara online untuk membantu mahasiswa STT NF yang mengalami kesulitan
-    highlight: BUILD
 
 old_project_entries:
   - title: Kalkulator Zakat
