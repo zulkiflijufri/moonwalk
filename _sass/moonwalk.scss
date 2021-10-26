@@ -64,8 +64,8 @@ img {
   margin: 0 auto;
 }
 html {
-    --bg: #FFF;
-    --bg-secondary: #f8f8f8;
+    --bg: rgba(249, 250, 251, 1); //#fff
+    --bg-secondary: rgba(243, 244, 246, 1); //f8f8f8
     --headings: #000;
     --text: #333;
     --links: blue;
